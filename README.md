@@ -6,10 +6,10 @@ open terminal once you unzip the file
 follow the steps below! (this is an example replace yourusername with your computer user!)
 once you have completed you can from now on open the app normally!
 
-chmod +x /Users/yourusername/Downloads/zzzz_hub_v2
+chmod +x /Users/yourusername/Downloads/zzzz_v2_hub
 
-chmod -R +x ~/Downloads/zzzz_hub_v2
+chmod -R +x ~/Downloads/zzzz_v2_hub
 
-xattr -r -d com.apple.quarantine ~/Downloads/zzzz_hub_v2
+xattr -r -d com.apple.quarantine ~/Downloads/zzzz_v2_hub
 
-open ~/Downloads/zzzz_hub_v2
+open ~/Downloads/zzzz_v2_hub
